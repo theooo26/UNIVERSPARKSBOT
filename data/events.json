@@ -1,1 +1,1 @@
-[null,{"name":"Demarrage","temp":"","event-type":"1","actions":[{"gameName":"Disneyland Paris Minecraft - *help","gameLink":"","name":"Set Bot Game"},{"status":"3","name":"Set Bot Status"}]},{"name":"NewEvent","temp":"","event-type":"1","actions":[{"channel":"4","varName":"","message":"Bot demarré avec succès !","storage":"0","varName2":"","name":"Send Message"}]}]
+[null,{"name":"InitialisationDuBot","temp":"","event-type":"1","actions":[{"status":"1","name":"Set Bot Status"},{"gameName":"","gameLink":"?help","name":"Set Bot Game"}]}]
